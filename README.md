@@ -20,3 +20,34 @@ El COVID-19 va ser una pandèmia mundial que va canviar la nostra societat. Ha s
 
 ## Relació entre els datasets
 ![Relació entre els datasets](Data_structure.png)
+
+## Datasets d'interès
+### PatientInfo
+**patient_id** -> ID del pacient<br>
+**sex** -> sexe del pacient<br>
+**age** -> edat del pacient<br>
+**country** -> país del pacient<br>
+**province** -> província del pacient<br>
+**city** -> ciutat del pacient<br>
+**infection_case** -> tipus d’infecció. Com el pacient es va contagiar<br>
+**infected_by** -> el ID del pacient que el va infectar<br>
+**contact_number** -> número de contacte de la gent<br>
+**symptom_onset_date** -> quan el símptoma apareix<br>
+**confirmed_date** -> data en que va ser detectat el positiu<br>
+**released_date** -> data que es va donar d’alta el pacient<br>
+**deceased_date** -> data de defunció<br>
+**state** -> estat 
+
+### Region
+**code** -> el codi de la regió<br>
+**provincie** -> província<br>
+**city** -> ciutat<br>
+**latitude** -> latitud<br>
+**longitude** -> longitud<br>
+**elementar_school_coun** -> el nombre d’escoles<br>
+**kindergarten_count** -> el nombre d’escoles de bressol<br>
+**university_count** -> el nombre d’universitats<br>
+**academy_ratio** -> el ratio d’acadèmies <br>
+**elderly_population_ratiu** -> el ratio de població d’edat avançada<br>
+**elderly_alone_ratio** -> el ratio de població d’edat avançada vivint sola<br>
+**nursing_home_count** -> el nombre d’infermeres que treballen a cases
