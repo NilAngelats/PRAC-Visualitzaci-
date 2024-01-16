@@ -51,3 +51,8 @@ El COVID-19 va ser una pandèmia mundial que va canviar la nostra societat. Ha s
 **elderly_population_ratiu** -> el ratio de població d’edat avançada<br>
 **elderly_alone_ratio** -> el ratio de població d’edat avançada vivint sola<br>
 **nursing_home_count** -> el nombre d’infermeres que treballen a cases
+
+## Flourish visualitzacions
+
+**3D Heatmap** https://public.flourish.studio/visualisation/16461514/ <br>
+**Line Chart** https://public.flourish.studio/visualisation/16463510/
